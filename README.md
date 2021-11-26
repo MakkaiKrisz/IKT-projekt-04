@@ -11,3 +11,12 @@
    </body>
 </html>
 
+<DOCTYPE html>
+  <html>
+    <body>
+      <style>
+        h1{color:blue}
+      </style>
+      <h1>IKT-projekt-03: színes szöveg</h1>
+    </body>
+  </html>
